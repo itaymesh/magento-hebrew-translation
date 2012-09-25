@@ -1,0 +1,58 @@
+{* This is a comment block
+
+Use vars: {{var var_name}}
+*}<!--@subject תזכורת על תשלום נכשל @-->
+
+<table>
+    <thead>
+        <tr>
+            <th>התשלום נכשל.</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <p>
+                    <b>סיבה</b><br />
+                    {{var reason}}
+                </p>
+                <p>
+                    <b>שיטת הצק אאוט</b><br />
+                    {{var checkoutType}}
+                </p>
+                <p>
+                    <b>לקוח:</b><br />
+                    <a href="mailto:{{var customerEmail}}">{{var customer}}</a> &lt;{{var customerEmail}}&gt;
+                </p>
+                <p>
+                    <b>פריטים</b><br />
+                    {{var items}}
+                </p>
+                <p>
+                    <b>סה"כ:</b><br />
+                    {{var total}}
+                </p>
+                <p>
+                    <b>כתובת החיוב:</b><br />
+                    {{var billingAddress.format('html')}}
+                </p>
+                <p>
+                    <b>כתובת המשלוח:</b><br />
+                    {{var shippingAddress.format('html')}}
+                </p>
+                <p>
+                    <b>שיטת המשלוח:</b><br />
+                    {{var shippingMethod}}
+                </p>
+                <p>
+                    <b>שיטת התשלום:</b><br />
+                    {{var paymentMethod}}
+                </p>
+                <p>
+                    <b>תאריך ושעה:</b><br />
+                    {{var dateAndTime}}
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
