@@ -34,7 +34,7 @@
 "Enter your email address","הזן כתובת אימייל"
 "Error Code","קוד שגיאה"
 "Error Text","טקסט שגיאה"
-"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>","עקוב אחר לינק זה כדי להסיר הרשמה <!-- בחר כאן לקישור הסרת רישום  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>"
+"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>","עקוב אחר קישור זה כדי להסיר הרשמה <!-- בחר כאן לקישור הסרת רישום  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>"
 "Guest","אורח"
 "ID","קוד/ת.ז/זיהוי"
 "Invalid queue selected.","תור לא תקין תבחר"

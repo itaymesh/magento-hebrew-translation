@@ -239,7 +239,7 @@
 "Icon that will appear on the user\'s device after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 72px x 72px.","אייקון שיופיע במכשיר הלקוח אחרי שהוא יוריד את האפליקציה שלך. אין צורף לבצע התאמת גבולות תמונה (הדבר נעשה באופן אוטומטי על ידי Apple). גודל מומלץ: 72px x 72px."
 "Icon that will appear on the user\'s phone after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 114px x 114px.","אייקון שיופיע במכשיר הלקוח אחרי שהוא יוריד את האפליקציה שלך. אין צורף לבצע התאמת גבולות תמונה (הדבר נעשה באופן אוטומטי על ידי Apple). גודל מומלץ: 114px x 114px."
 "Icon that will appear on the user’s phone after they download your app.  You do not need to apply a gradient or soft edges (this is done automatically by Apple).  Recommended size: 57px x 57px at 72 dpi.","אייקון שיופיע במכשיר הלקוח אחרי שהוא יוריד את האפליקציה שלך.  אין צורף לבצע התאמת גבולות תמונה הדבר נעשה באופן אוטומטי על ידי Apple).  גודל מומלץ: 57px x 57px at 72 dpi."
-"Icons","אייקונים"
+"Icons","איילקוחות"
 "If leave this field empty, the message will be sent immediately","ההודעה תשלח באופן מיידי אם תשאיר שדה זה ריק."
 "If you want to disable the cache on the application side, leave the field empty. Warning! When disabling cache, the application will take time to load each page.","אם אתה רוצה לחסום cache באפליקצייה, השאר את השדה ריק. שים לב! זמן הטעינה של כל דף עולה כתוצאה מפעולה זאת."
 "Image file was not found.","קובץ תמונה לא נמצא"
