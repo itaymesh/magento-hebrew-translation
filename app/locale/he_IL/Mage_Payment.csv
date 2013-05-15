@@ -89,7 +89,7 @@
 "Severe validation removes chargeback liability on merchant.","אימות חמור מסיר chargeback אמינות של סוחר."
 "Shipping Amount","כמות למשלוח"
 "Short description of the recurring payment. By default equals to the product name.","תיאור קצר של תשלום חוזר. ערך ברירת מחדל יהיה שם המוצר"
-"Sort Order","מיון לפי"
+"Sort Order","סדר מיון"
 "Start Date","תאריך התחלה"
 "Start date has invalid format.","פורמט לא תקין של תאריך התחלה"
 "Start date is undefined.","לא הוגדר תהליך התחלה"
