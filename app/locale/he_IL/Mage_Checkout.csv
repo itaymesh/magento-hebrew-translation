@@ -47,7 +47,7 @@
 "Change","שינוי"
 "Change Billing Address","שנה כתובת לחיוב"
 "Checkbox Text","טקסט תיבת צ'ק בוקס"
-"Checkout","תשלום/צ'ק אאוט"
+"Checkout","קופה"
 "Checkout Conditions","תנאים למעבר לקופה"
 "Checkout Method","שיטת צ'ק אאוט"
 "Checkout Options","אפשרויות צ'ק אאוט"
@@ -295,7 +295,7 @@
 "Update product(s) quantities in shopping cart","עדכן כמות מוצרים בעגלת הקניות"
 "Use Billing Address","השתמש בכתובת שהוזנה בחיוב"
 "We are processing your order and you will soon receive an email with details of the order. Once the order has shipped you will receive another email with a link to track its progress.","הזמנתך התקבלה ובקרוב תקבל אישור עם פרטי ההזמנה למייל שהגדרת. <br/>כשהמשלוח יצא, תקבל מייל נוסף ובו קישור למעקב אודות התקדמות המשלוח."
-"You have no items in your shopping cart.","סל הקניות שלכם ריק, מוזנח ומסכן.<br/>הוסיפו אליו מוצרים שאתם אוהבים והחזירו אותו לחיים!"
+"You have no items in your shopping cart.","אין לכם פריטים בסל הקניות"
 
 
 "You will receive an order confirmation email with details of your order and a link to track its progress.","אישור הזמנה ישלח לכתובת האימייל שצויינה ובה קישור למעקב אחר התקדמות ההזמנה."
